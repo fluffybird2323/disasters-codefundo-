@@ -1,5 +1,6 @@
 # disasters-codefundo++
 my submission :)
+
 My idea is to first get maps from Geographical research sources , these maps will contain information about the variation
 of factors like rainfall , groundwater levels, type of soil,average climatic conditions(wind speed,tempratures,Humidity),
 volcanic activity... etc
